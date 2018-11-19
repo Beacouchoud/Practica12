@@ -50,11 +50,14 @@ footer {
     width: 100%;
     display: inline-block;
 }
+.container2{
+    margin-left: 8%;
+}
 .columna{
     width: 20%;  
-    display: inline-block;
-    margin: 1%;
+    display: inline-block; 
     vertical-align: top;
+    margin: 1%;
 }
 .columna h2{
     font-style: normal;
@@ -63,6 +66,7 @@ footer {
     font-weight: 200;
     padding-bottom: 4%;
     border-bottom: 3px solid white;
+    margin-bottom: 5%;
 }
 .columna td{
     border-bottom: 1px solid white;
